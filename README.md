@@ -6,9 +6,9 @@ A comprehensive comparison of three different approaches for Document Visual Que
 
 | Method | Exact Match (%) | F1 Score (%) | Approach |
 |--------|----------------|--------------|----------|
-| **VRDU OCR + LLM** | **49.3** | **55.3** | VRDU OCR + Llama-3.1-8B-instant via Groq |
-| **Tesseract OCR + LLM** | **51.3** | **58.6** | Tesseract OCR + Llama-3.1-8B-instant via Groq |
-| **LLaVA-Llama3 (Direct)** | 9.67 | 15.75 | Direct vision-language model |
+| **Tesseract OCR + LLM** | **51.3** | **58.6** 
+| **VRDU OCR + LLM** | **49.3** | **55.3** | VRDU OCR + Llama-3.1-8B-instant via Groq 
+| **LLaVA-Llama3 (Direct)** | 9.67 | 15.75 | Direct vision-language model 
 
 ### Key Findings
 - **OCR-first approaches significantly outperform direct vision-language models** for document QA tasks
@@ -140,6 +140,32 @@ GROQ_API_KEY=your_groq_api_key_here
 - **Best Quality**: Use VRDU OCR + LLM (when compute allows)
 - **Avoid**: Direct vision models for document QA
 
+## ⚠️ Limitations
+
+### Dataset Constraints
+- **Small evaluation set**: Only 300 samples from DocVQA dataset
+- **Single domain**: Limited to document QA, no generalization testing
+- **No data splits**: All samples used for evaluation (no train/test separation)
+
+### Technical Limitations
+- **OCR Text Truncation**: Tesseract approach truncates content to 1500 characters
+- **Processing Speed**: VRDU requires 4+ hours vs Tesseract's 25 minutes
+- **Memory Requirements**: VRDU approach demands significant GPU memory
+- **API Dependencies**: Reliance on Groq API availability and rate limits
+- **Hardware Sensitivity**: Performance varies with GPU/CPU configuration
+
+### Methodology Constraints  
+- **Limited Metrics**: Only exact match and F1 score evaluated
+- **No Statistical Testing**: Missing confidence intervals or significance tests
+- **Basic Preprocessing**: Simple text normalization, no advanced techniques
+- **Single Model Variants**: One model tested per approach category
+
+### Implementation Issues
+- **No Error Recovery**: Failed samples are skipped without retry mechanisms
+- **Sequential Processing**: No parallel processing implementation
+- **No Reproducibility Controls**: Missing random seed and version pinning
+- **Basic Error Handling**: Generic exception catching without detailed logging
+
 ## 📊 Detailed Results
 
 The complete results for all 300 samples are available in the CSV files:
@@ -166,10 +192,3 @@ This study demonstrates the effectiveness of traditional OCR + LLM pipelines com
 - Investigate hybrid approaches combining OCR and vision models
 - Evaluate on different document types (forms, tables, handwritten text)
 
-## 📄 License
-
-This project is for educational and research purposes. Please ensure compliance with the terms of service of all APIs and models used.
-
----
-
-*This comparative study was conducted to evaluate different approaches for document visual question answering and provides insights into the current state of document AI technologies.*
