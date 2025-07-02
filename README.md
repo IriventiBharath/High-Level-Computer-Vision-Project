@@ -6,30 +6,31 @@ A comprehensive comparison of three different approaches for Document Visual Que
 
 | Method | Exact Match (%) | F1 Score (%) | Approach |
 |--------|----------------|--------------|----------|
-| **VRDU OCR + LLM** | **43.5** | **61.0** | VRDU OCR extraction + Groq LLM |
+| **VRDU OCR + LLM** | **49.3** | **55.3** | VRDU OCR extraction + Groq LLM |
 | **Tesseract OCR + LLM** | **51.3** | **58.6** | Tesseract OCR + Groq LLM |
 | **LLaVA-Llama3 (Direct)** | 9.67 | 15.75 | Direct vision-language model |
 
 ### Key Findings
 - **OCR-first approaches significantly outperform direct vision-language models** for document QA tasks
-- **VRDU OCR + LLM achieves the best F1 score (61%)**, indicating superior answer quality and partial matches
-- **Tesseract OCR + LLM achieves the best exact match rate (51.3%)**, showing more precise answers
+- **Tesseract OCR + LLM achieves the best performance overall** with 51.3% exact match and 58.6% F1 score
+- **VRDU OCR + LLM performs competitively** with 49.3% exact match and 55.3% F1 score
 - **LLaVA-Llama3 direct approach struggles** with complex document understanding, achieving only 9.67% exact match
 
 ## 📊 Performance Analysis
 
 ### Strengths and Weaknesses
 
-**VRDU OCR + LLM (Best Overall)**
-- ✅ Highest F1 score (61%) - excellent at capturing relevant information
-- ✅ Advanced document understanding with layout awareness
-- ⚠️ Moderate exact match rate (43.5%) - sometimes provides verbose answers
-
-**Tesseract OCR + LLM (Best Precision)**
+**Tesseract OCR + LLM (Best Overall)**
 - ✅ Highest exact match rate (51.3%) - most precise answers
+- ✅ Highest F1 score (58.6%) - excellent balance of precision and recall
 - ✅ Fastest processing time (~12.9 docs/min)
 - ✅ Simple and reliable pipeline
-- ⚠️ Lower F1 score (58.6%) - may miss some relevant information
+
+**VRDU OCR + LLM (Competitive Performance)**
+- ✅ Strong exact match rate (49.3%) - good precision
+- ✅ Good F1 score (55.3%) - solid overall performance
+- ✅ Advanced document understanding with layout awareness
+- ⚠️ Slightly lower performance than Tesseract approach
 
 **LLaVA-Llama3 Direct (Poorest Performance)**
 - ❌ Lowest performance across all metrics
