@@ -6,8 +6,8 @@ A comprehensive comparison of three different approaches for Document Visual Que
 
 | Method | Exact Match (%) | F1 Score (%) | Approach |
 |--------|----------------|--------------|----------|
-| **VRDU OCR + LLM** | **49.3** | **55.3** | VRDU OCR extraction + Groq LLM |
-| **Tesseract OCR + LLM** | **51.3** | **58.6** | Tesseract OCR + Groq LLM |
+| **VRDU OCR + LLM** | **49.3** | **55.3** | VRDU OCR + Llama-3.1-8B-instant via Groq |
+| **Tesseract OCR + LLM** | **51.3** | **58.6** | Tesseract OCR + Llama-3.1-8B-instant via Groq |
 | **LLaVA-Llama3 (Direct)** | 9.67 | 15.75 | Direct vision-language model |
 
 ### Key Findings
@@ -23,14 +23,14 @@ A comprehensive comparison of three different approaches for Document Visual Que
 **Tesseract OCR + LLM (Best Overall)**
 - ✅ Highest exact match rate (51.3%) - most precise answers
 - ✅ Highest F1 score (58.6%) - excellent balance of precision and recall
-- ✅ Fastest processing time (~12.9 docs/min)
+- ✅ Fastest processing time (25 min for 300 documents)
 - ✅ Simple and reliable pipeline
 
 **VRDU OCR + LLM (Competitive Performance)**
 - ✅ Strong exact match rate (49.3%) - good precision
 - ✅ Good F1 score (55.3%) - solid overall performance
 - ✅ Advanced document understanding with layout awareness
-- ⚠️ Slightly lower performance than Tesseract approach
+- ⚠️ Slower processing time (4+ hours for 300 documents)
 
 **LLaVA-Llama3 Direct (Poorest Performance)**
 - ❌ Lowest performance across all metrics
@@ -57,7 +57,7 @@ A comprehensive comparison of three different approaches for Document Visual Que
 Document Image → VRDU OCR (Docling) → Groq LLM → Answer
 ```
 - **OCR Engine**: Docling with SmolDocling transformer model
-- **LLM**: Groq Llama-3.1-8B-instant
+- **LLM**: Llama-3.1-8B-instant via Groq API
 - **Advantage**: Advanced document layout understanding
 
 #### 2. Tesseract OCR + LLM Pipeline
@@ -65,7 +65,7 @@ Document Image → VRDU OCR (Docling) → Groq LLM → Answer
 Document Image → Tesseract OCR → Groq LLM → Answer
 ```
 - **OCR Engine**: Tesseract
-- **LLM**: Groq Llama-3.1-8B-instant
+- **LLM**: Llama-3.1-8B-instant via Groq API
 - **Advantage**: Fast and reliable text extraction
 
 #### 3. LLaVA-Llama3 Direct Pipeline
@@ -75,32 +75,11 @@ Document Image → LLaVA-Llama3 Vision Model → Answer
 - **Model**: LLaVA-Llama3 8B via Ollama
 - **Advantage**: End-to-end vision-language understanding
 
-## 📁 Project Structure
+## 💻 Compute Infrastructure
 
-```
-HLCV_project/
-├── README.md                          # This file
-├── requirements.txt                   # Python dependencies
-├── .env                              # Environment variables (excluded from git)
-├── .gitignore                        # Git ignore file
-│
-├── notebooks/
-│   ├── LVLM_llava-llama3_8b.ipynb    # LLaVA-Llama3 implementation
-│   ├── OCR_Tesseract.ipynb           # Tesseract OCR + LLM implementation
-│   └── OCR_VRDU_QA_copy.ipynb        # VRDU OCR + LLM implementation
-│
-├── results/
-│   ├── vlm_results.csv               # LLaVA-Llama3 results
-│   ├── OCR_results_tesseract.csv     # Tesseract results
-│   └── OCR_VRDU_results.csv          # VRDU results
-│
-└── docvqa_samples_300/
-    ├── images/                       # Document images (300 samples)
-    │   ├── doc_0000.png
-    │   ├── doc_0001.png
-    │   └── ...
-    └── metadata.json                 # Questions and ground truth answers
-```
+- **VRDU OCR**: Google Colab T4 GPU → RTX 3060 local GPU (due to compute limitations)
+- **Processing Time**: Tesseract (25 min) vs VRDU (4+ hours) for 300 documents  
+- **LLM**: Llama-3.1-8B-instant via Groq API for all OCR approaches
 
 ## 🚀 Usage Instructions
 
@@ -143,74 +122,23 @@ GROQ_API_KEY=your_groq_api_key_here
    jupyter notebook LVLM_llava-llama3_8b.ipynb
    ```
 
-## 🔧 Technical Implementation Details
+## 🔧 Technical Details
 
-### OCR Processing
-- **VRDU**: Uses Docling framework with SmolDocling transformer for document understanding
-- **Tesseract**: Traditional OCR with pytesseract Python wrapper
-- **Text Preprocessing**: Normalization, punctuation removal, whitespace handling
+- **LLM**: Llama-3.1-8B-instant via Groq API (temperature=0)
+- **OCR**: VRDU (Docling framework) vs Tesseract
+- **Evaluation**: Exact Match + F1 Score with text normalization
 
-### LLM Integration
-- **Model**: Groq Llama-3.1-8B-instant for OCR approaches
-- **Temperature**: 0 for deterministic responses
-- **Prompt Strategy**: Structured prompts requesting concise answers
-- **Error Handling**: Graceful handling of API failures and timeouts
+## 📈 Key Insights
 
-### Evaluation Pipeline
-- **Preprocessing**: Text normalization for fair comparison
-- **Exact Match**: Strict string matching after normalization
-- **F1 Score**: Token-level precision and recall calculation
-- **Real-time Results**: CSV output with detailed per-sample results
+**Why OCR-First Approaches Outperform Direct Vision Models:**
+- OCR engines are specialized for text extraction
+- LLMs excel at reasoning over extracted text  
+- Two-stage pipeline allows component optimization
 
-## 📈 Analysis & Insights
-
-### Why OCR-First Approaches Outperform Direct Vision Models
-
-1. **Text Recognition Specialization**: OCR engines are specifically designed for text extraction
-2. **Document Layout Understanding**: VRDU models understand document structure better
-3. **LLM Strengths**: LLMs excel at reasoning over extracted text
-4. **Pipeline Optimization**: Two-stage approach allows optimization of each component
-
-### Performance Trade-offs
-
-- **VRDU vs Tesseract**: VRDU provides better contextual understanding but Tesseract is more precise
-- **Speed vs Accuracy**: Tesseract is fastest but VRDU provides highest quality
-- **Resource Requirements**: Direct vision models require significant GPU resources
-
-### Recommendations
-
-1. **For Production Systems**: Use VRDU OCR + LLM for best overall performance
-2. **For High-Speed Processing**: Use Tesseract OCR + LLM for optimal speed/accuracy balance
-3. **For Simple Documents**: Tesseract may be sufficient for straightforward text extraction
-4. **Avoid Direct Vision Models**: Current vision-language models are not optimized for document QA
-
-## 🛠️ Requirements
-
-### Python Packages
-```
-langchain-groq>=0.3.5
-langchain-docling>=0.1.0
-langchain-core>=0.3.67
-langchain-ollama>=0.2.0
-python-dotenv>=1.1.1
-matplotlib>=3.10.0
-pillow>=11.2.1
-tqdm>=4.67.1
-numpy>=2.0.2
-pytesseract>=0.3.13
-pandas>=2.0.0
-```
-
-### System Requirements
-- **GPU**: Recommended for VRDU and LLaVA approaches
-- **RAM**: Minimum 8GB, 16GB+ recommended
-- **Storage**: ~2GB for models and data
-- **API Keys**: Groq API key for LLM access
-
-### External Dependencies
-- **Tesseract OCR**: System-level installation required
-- **Ollama**: Required for LLaVA-Llama3 approach
-- **CUDA**: Optional but recommended for GPU acceleration
+**Recommendations:**
+- **High-Speed Processing**: Use Tesseract OCR + LLM
+- **Best Quality**: Use VRDU OCR + LLM (when compute allows)
+- **Avoid**: Direct vision models for document QA
 
 ## 📊 Detailed Results
 
@@ -233,10 +161,10 @@ Each file contains:
 This study demonstrates the effectiveness of traditional OCR + LLM pipelines compared to modern vision-language models for document question answering tasks. The results suggest that specialized document processing pipelines remain superior to general-purpose vision models for text-heavy document understanding tasks.
 
 ### Future Work
+- **Non-OCR vision model comparisons** (coming soon)
 - Experiment with larger vision-language models (GPT-4V, Gemini Pro Vision)
 - Investigate hybrid approaches combining OCR and vision models
 - Evaluate on different document types (forms, tables, handwritten text)
-- Optimize prompt engineering for vision models
 
 ## 📄 License
 
