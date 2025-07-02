@@ -1,4 +1,4 @@
-# Document Visual Question Answering: A Comparative Study
+# DocVQA: A Comparative Study
 
 A comprehensive comparison of three different approaches for Document Visual Question Answering (DocVQA) evaluated on 300 document samples from the DocVQA dataset.
 
