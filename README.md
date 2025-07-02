@@ -6,8 +6,8 @@ A comprehensive comparison of three different approaches for Document Visual Que
 
 | Method | Exact Match (%) | F1 Score (%) | Approach |
 |--------|----------------|--------------|----------|
-| **Tesseract OCR + LLM** | **51.3** | **58.6** 
-| **VRDU OCR + LLM** | **49.3** | **55.3** | VRDU OCR + Llama-3.1-8B-instant via Groq 
+| **Tesseract OCR + LLM** | **51.3** | **58.6** | Tesseract OCR + Llama-3.1-8B-instant 
+| **VRDU OCR + LLM** | **49.3** | **55.3** | VRDU OCR + Llama-3.1-8B-instant 
 | **LLaVA-Llama3 (Direct)** | 9.67 | 15.75 | Direct vision-language model 
 
 ### Key Findings
