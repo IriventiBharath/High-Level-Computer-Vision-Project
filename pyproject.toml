@@ -1,0 +1,41 @@
+[project]
+name = "hlcv-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "accelerate>=1.8.1",
+    "datasets>=3.6.0",
+    "faiss-cpu>=1.11.0",
+    "groq>=0.29.0",
+    "ipykernel>=6.29.5",
+    "jupyter>=1.1.1",
+    "langchain>=0.3.26",
+    "langchain-community>=0.3.26",
+    "langchain-core>=0.3.66",
+    "langchain-docling>=1.0.0",
+    "langchain-groq>=0.3.4",
+    "langchain-huggingface>=0.3.0",
+    "langchain-milvus>=0.2.1",
+    "langchain-ollama>=0.3.3",
+    "matplotlib>=3.10.3",
+    "numpy>=2.3.1",
+    "ollama>=0.5.1",
+    "pillow>=11.2.1",
+    "pip>=25.1.1",
+    "pytesseract>=0.3.13",
+    "python-dotenv>=1.1.1",
+    "sentence-transformers>=4.1.0",
+    "sentencepiece>=0.2.0",
+    "streamlit>=1.46.1",
+    "torch>=2.7.1",
+    "torchvision>=0.22.1",
+    "tqdm>=4.67.1",
+    "transformers>=4.53.0",
+]
+
+[tool.uv.workspace]
+members = [
+    "Thesis_Code",
+]

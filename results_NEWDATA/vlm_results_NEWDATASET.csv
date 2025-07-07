@@ -1,0 +1,11 @@
+id,image_filename,question,ground_truth,predicted_answer,exact_match,f1_score
+1,doc1.png,When did the show conclude on?,"May 19, 2019, 19/05/2019","April 26, 2011",False,0.0
+2,doc2.png,What is the first title in the internation TV shows list?,The summer Hikaru Died,Korean drama,False,0.0
+3,doc3.png,What is the total amount?,154.06,"$ 6,062.95",False,0.0
+4,doc4.png,When is the final presentation slides submission deadline?,"july 20, 2025",6-12-07,False,0.0
+5,doc5.png,Which channel uploaded the video titled 'I spent 7 days Buried Alive'?,MrBeast,YouTube,False,0.0
+6,doc6.png,how many hours played are on record for the game 'Dota 2'?,"790 hrs, 790",53 hours,False,0.0
+7,doc7.png,What is the title of the book?,"Sapien: A Brief History of Humankind, Sapiens",Sapiens: A Brief History of Humankind,False,0.92
+8,doc8.png,What is the brand of the bottle?,bubba,Bubba,True,1.0
+9,doc9.png,When is the DIP exam?,"08.09, 08/09",08/09/09,False,0.0
+10,doc10.png,What is the aerobioc load in the workout?,3.6,3.6,True,1.0

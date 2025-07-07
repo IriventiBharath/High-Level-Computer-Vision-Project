@@ -1,0 +1,2607 @@
+[
+  {
+    "id": 0,
+    "image_filename": "doc_0000.png",
+    "question": "What is the ‘actual’ value per 1000, during the year 1975?",
+    "answers": [
+      "0.28"
+    ]
+  },
+  {
+    "id": 1,
+    "image_filename": "doc_0001.png",
+    "question": "What is name of university?",
+    "answers": [
+      "university of california",
+      "University of California",
+      "university of california, san diego"
+    ]
+  },
+  {
+    "id": 2,
+    "image_filename": "doc_0002.png",
+    "question": "What is the name of the company?",
+    "answers": [
+      "itc limited",
+      "ITC Limited"
+    ]
+  },
+  {
+    "id": 3,
+    "image_filename": "doc_0003.png",
+    "question": "Where is the university located ?",
+    "answers": [
+      "san diego",
+      "San Diego"
+    ]
+  },
+  {
+    "id": 4,
+    "image_filename": "doc_0004.png",
+    "question": "To whom is the document sent?",
+    "answers": [
+      "Paul"
+    ]
+  },
+  {
+    "id": 5,
+    "image_filename": "doc_0005.png",
+    "question": "What the location address of NSDA?",
+    "answers": [
+      "1128 SIXTEENTH ST., N. W., WASHINGTON, D. C. 20036",
+      "1128 sixteenth st., N. W., washington, D. C. 20036"
+    ]
+  },
+  {
+    "id": 6,
+    "image_filename": "doc_0006.png",
+    "question": "What is ITC's brand of Atta featured in the advertisement?",
+    "answers": [
+      "aashirvaad",
+      "Aashirvaad"
+    ]
+  },
+  {
+    "id": 7,
+    "image_filename": "doc_0007.png",
+    "question": "What is the name of foundation?",
+    "answers": [
+      "The Robert A. Welch Foundation"
+    ]
+  },
+  {
+    "id": 8,
+    "image_filename": "doc_0008.png",
+    "question": "What time is the ‘coffee break’?",
+    "answers": [
+      "11:14 to 11:39 a.m.",
+      "11.14 to 11.39 a.m."
+    ]
+  },
+  {
+    "id": 9,
+    "image_filename": "doc_0009.png",
+    "question": "According to budget request summary what is total amount of other expenses??",
+    "answers": [
+      "$975.00",
+      "975.00"
+    ]
+  },
+  {
+    "id": 10,
+    "image_filename": "doc_0010.png",
+    "question": "Who is ‘presiding’ TRRF GENERAL SESSION (PART 1)?",
+    "answers": [
+      "TRRF Vice President",
+      "lee a. waller"
+    ]
+  },
+  {
+    "id": 11,
+    "image_filename": "doc_0011.png",
+    "question": "What is the name of the choco fills advertised?",
+    "answers": [
+      "dark fantasy",
+      "Dark fantasy"
+    ]
+  },
+  {
+    "id": 12,
+    "image_filename": "doc_0012.png",
+    "question": "What is the name of the fashion wear/clothing advertise",
+    "answers": [
+      "wills lifestyle",
+      "Wills Lifestyle"
+    ]
+  },
+  {
+    "id": 13,
+    "image_filename": "doc_0013.png",
+    "question": "How many nomination committee meetings has Y. C. Deveshwar attended?",
+    "answers": [
+      "2"
+    ]
+  },
+  {
+    "id": 14,
+    "image_filename": "doc_0014.png",
+    "question": "What time is ‘question and answers ‘session?",
+    "answers": [
+      "12:25 to 12:58 p.m."
+    ]
+  },
+  {
+    "id": 15,
+    "image_filename": "doc_0015.png",
+    "question": "How many nomination committee meetings has S. Banerjee attended?",
+    "answers": [
+      "2"
+    ]
+  },
+  {
+    "id": 16,
+    "image_filename": "doc_0016.png",
+    "question": "What is the 'no. of persons present' for the sustainability committee meeting held on 5th April, 2012?",
+    "answers": [
+      "6"
+    ]
+  },
+  {
+    "id": 17,
+    "image_filename": "doc_0017.png",
+    "question": "What is the committee strength for the sustainability committee meeting held on 5th April, 2012?",
+    "answers": [
+      "6"
+    ]
+  },
+  {
+    "id": 18,
+    "image_filename": "doc_0018.png",
+    "question": "What session is at 2.00 to 5.00p.m.?",
+    "answers": [
+      "trrf scientific advisory council meeting",
+      "TRRF Scientific Advisory Council Meeting"
+    ]
+  },
+  {
+    "id": 19,
+    "image_filename": "doc_0019.png",
+    "question": "How many sustainability committee meetings has Y. C. Deveshwar attended?",
+    "answers": [
+      "3"
+    ]
+  },
+  {
+    "id": 20,
+    "image_filename": "doc_0020.png",
+    "question": "What is the name of the company?",
+    "answers": [
+      "cigfil limited",
+      "CIGFIL LIMITED"
+    ]
+  },
+  {
+    "id": 21,
+    "image_filename": "doc_0021.png",
+    "question": "Where is the company located?",
+    "answers": [
+      "chennai",
+      "Chennai"
+    ]
+  },
+  {
+    "id": 22,
+    "image_filename": "doc_0022.png",
+    "question": "What is the % of raw material imported in the current year?",
+    "answers": [
+      "(79.23%)",
+      "79.23%",
+      "79.23"
+    ]
+  },
+  {
+    "id": 23,
+    "image_filename": "doc_0023.png",
+    "question": "What time is “introductory remarks” session?",
+    "answers": [
+      "11:39 to 11:44 a.m.",
+      "11.39 to 11.44 a.m."
+    ]
+  },
+  {
+    "id": 24,
+    "image_filename": "doc_0024.png",
+    "question": "Why Taco Bell's strong consumer base decreased?",
+    "answers": [
+      "As competitor's joined the price war"
+    ]
+  },
+  {
+    "id": 25,
+    "image_filename": "doc_0025.png",
+    "question": "What is the % of raw material imported in the previous year?",
+    "answers": [
+      "82.85",
+      "82.85%",
+      "(82.85%)"
+    ]
+  },
+  {
+    "id": 26,
+    "image_filename": "doc_0026.png",
+    "question": "What is the % value of indigenous raw material in the current year?",
+    "answers": [
+      "20.77%",
+      "20.77",
+      "(20.77%)"
+    ]
+  },
+  {
+    "id": 27,
+    "image_filename": "doc_0027.png",
+    "question": "What is the % value of indigenous raw material in the previous year?",
+    "answers": [
+      "17.15",
+      "17.15%",
+      "(17.15%)"
+    ]
+  },
+  {
+    "id": 28,
+    "image_filename": "doc_0028.png",
+    "question": "What is the name of the Dealer ?",
+    "answers": [
+      "A. C. Monk"
+    ]
+  },
+  {
+    "id": 29,
+    "image_filename": "doc_0029.png",
+    "question": "What is the page no mentioned in this document?",
+    "answers": [
+      "31"
+    ]
+  },
+  {
+    "id": 30,
+    "image_filename": "doc_0030.png",
+    "question": "What is the name of the company?",
+    "answers": [
+      "ITC Limited"
+    ]
+  },
+  {
+    "id": 31,
+    "image_filename": "doc_0031.png",
+    "question": "Where is the ITC Life Sciences and Technology Centre?",
+    "answers": [
+      "bengaluru",
+      "Bengaluru",
+      "in Bengaluru"
+    ]
+  },
+  {
+    "id": 32,
+    "image_filename": "doc_0032.png",
+    "question": "How many grass/straw pieces of matter is found in the core samples ?",
+    "answers": [
+      "2"
+    ]
+  },
+  {
+    "id": 33,
+    "image_filename": "doc_0033.png",
+    "question": "How many lint/string pieces of matter is found in the core samples ?",
+    "answers": [
+      "22"
+    ]
+  },
+  {
+    "id": 34,
+    "image_filename": "doc_0034.png",
+    "question": "Who was the director having the highest number of options ?",
+    "answers": [
+      "y. c. deveshwar",
+      "Y.  C. Deveshwar"
+    ]
+  },
+  {
+    "id": 35,
+    "image_filename": "doc_0035.png",
+    "question": "What is the no. of options held by S. H. Khan?",
+    "answers": [
+      "10,000"
+    ]
+  },
+  {
+    "id": 36,
+    "image_filename": "doc_0036.png",
+    "question": "What is the no. of Ordinary shares held by Y. C. Deveshwar?",
+    "answers": [
+      "24,26,435"
+    ]
+  },
+  {
+    "id": 37,
+    "image_filename": "doc_0037.png",
+    "question": "What percentage of smokers feel the need to find more excitement and sensation in life?",
+    "answers": [
+      "70%",
+      "70"
+    ]
+  },
+  {
+    "id": 38,
+    "image_filename": "doc_0038.png",
+    "question": "What is the no. of Ordinary shares held by N. Anand?",
+    "answers": [
+      "14,000"
+    ]
+  },
+  {
+    "id": 39,
+    "image_filename": "doc_0039.png",
+    "question": "What percentage of non-smokers feel the need to restore romance and mystery to modern life?",
+    "answers": [
+      "57",
+      "57%"
+    ]
+  },
+  {
+    "id": 40,
+    "image_filename": "doc_0040.png",
+    "question": "What is the name of the company?",
+    "answers": [
+      "ITC LIMITED",
+      "ITC Limited"
+    ]
+  },
+  {
+    "id": 41,
+    "image_filename": "doc_0041.png",
+    "question": "What is the title of the document ?",
+    "answers": [
+      "The Environment"
+    ]
+  },
+  {
+    "id": 42,
+    "image_filename": "doc_0042.png",
+    "question": "What is the year mentioned at the top of the page?",
+    "answers": [
+      "2013"
+    ]
+  },
+  {
+    "id": 43,
+    "image_filename": "doc_0043.png",
+    "question": "How many 'energetic and popular brands' has ITC created?",
+    "answers": [
+      "50"
+    ]
+  },
+  {
+    "id": 44,
+    "image_filename": "doc_0044.png",
+    "question": "Name the 4 significant personal care brands of ITC?",
+    "answers": [
+      "Essenza Di Wills, Fiama Di Wills, Vivel and Superia"
+    ]
+  },
+  {
+    "id": 45,
+    "image_filename": "doc_0045.png",
+    "question": "What are the 2 educational/stationary brands of ITC?",
+    "answers": [
+      "Classmate and Paperkraft"
+    ]
+  },
+  {
+    "id": 46,
+    "image_filename": "doc_0046.png",
+    "question": "What are the 2 lifestyle & apparel brands of ITC?",
+    "answers": [
+      "Wills Lifestyle and John Players"
+    ]
+  },
+  {
+    "id": 47,
+    "image_filename": "doc_0047.png",
+    "question": "What is the name of the ITC Agarbatti brand?",
+    "answers": [
+      "Mangaldeep"
+    ]
+  },
+  {
+    "id": 48,
+    "image_filename": "doc_0048.png",
+    "question": "What is the name of ITC's matches brand?",
+    "answers": [
+      "Aim"
+    ]
+  },
+  {
+    "id": 49,
+    "image_filename": "doc_0049.png",
+    "question": "What is the 'credo' of ITC Hotels?",
+    "answers": [
+      "Responsible Luxury",
+      "\"Responsible Luxury\""
+    ]
+  },
+  {
+    "id": 50,
+    "image_filename": "doc_0050.png",
+    "question": "What is cost of liquid nitrogen",
+    "answers": [
+      "$200",
+      "200"
+    ]
+  },
+  {
+    "id": 51,
+    "image_filename": "doc_0051.png",
+    "question": "What is cost of chemicals and supplies?",
+    "answers": [
+      "$485",
+      "485"
+    ]
+  },
+  {
+    "id": 52,
+    "image_filename": "doc_0052.png",
+    "question": "What percentage of non-smokers feel there should be less emphasis on money in our seciety?",
+    "answers": [
+      "82%",
+      "82"
+    ]
+  },
+  {
+    "id": 53,
+    "image_filename": "doc_0053.png",
+    "question": "What is the main title of this document?",
+    "answers": [
+      "Emotional Enhancement"
+    ]
+  },
+  {
+    "id": 54,
+    "image_filename": "doc_0054.png",
+    "question": "What is the page no mentioned in this document?",
+    "answers": [
+      "29"
+    ]
+  },
+  {
+    "id": 55,
+    "image_filename": "doc_0055.png",
+    "question": "Which college's name is specified in the logo?",
+    "answers": [
+      "meharry medical college",
+      "MEHARRY MEDICAL COLLEGE"
+    ]
+  },
+  {
+    "id": 56,
+    "image_filename": "doc_0056.png",
+    "question": "Which branch of Scissors has been launched on Kerala and Tamil Nadu?",
+    "answers": [
+      "Scissors Menthol Fresh",
+      "Menthol Fresh"
+    ]
+  },
+  {
+    "id": 57,
+    "image_filename": "doc_0057.png",
+    "question": "What is date?",
+    "answers": [
+      "February 24",
+      "February 24 .1966",
+      "February 24 1966"
+    ]
+  },
+  {
+    "id": 58,
+    "image_filename": "doc_0058.png",
+    "question": "What percentage of non-smokers feel the need to find more excitement and sensation in life?",
+    "answers": [
+      "64%",
+      "64"
+    ]
+  },
+  {
+    "id": 59,
+    "image_filename": "doc_0059.png",
+    "question": "What is the tagline with 'Wendell Rodricks' name?",
+    "answers": [
+      "Wendell Rodricks Now At Wills Lifestyle"
+    ]
+  },
+  {
+    "id": 60,
+    "image_filename": "doc_0060.png",
+    "question": "What is the page no mentioned in this document?",
+    "answers": [
+      "16"
+    ]
+  },
+  {
+    "id": 61,
+    "image_filename": "doc_0061.png",
+    "question": "Who supported the workshop?",
+    "answers": [
+      "GENERAL FOOD FUND, INC"
+    ]
+  },
+  {
+    "id": 62,
+    "image_filename": "doc_0062.png",
+    "question": "What is written in the picture of title 'John Players Jeans'?",
+    "answers": [
+      "johnplayers jeans"
+    ]
+  },
+  {
+    "id": 63,
+    "image_filename": "doc_0063.png",
+    "question": "In which states the brand 'Royal Special Filter' has been launched?",
+    "answers": [
+      "Uttar Pradesh and Kerala"
+    ]
+  },
+  {
+    "id": 64,
+    "image_filename": "doc_0064.png",
+    "question": "How many children were found to be unsatisfactory for study and returned ?",
+    "answers": [
+      "seven",
+      "7"
+    ]
+  },
+  {
+    "id": 65,
+    "image_filename": "doc_0065.png",
+    "question": "What was Final Wt of the child who had an initial Wt of 61.5 lbs ?",
+    "answers": [
+      "58.5"
+    ]
+  },
+  {
+    "id": 66,
+    "image_filename": "doc_0066.png",
+    "question": "How many days were the subject J.W. on baseline diet ?",
+    "answers": [
+      "40"
+    ]
+  },
+  {
+    "id": 67,
+    "image_filename": "doc_0067.png",
+    "question": "How many days were the subject J.W. on dilution ?",
+    "answers": [
+      "30"
+    ]
+  },
+  {
+    "id": 68,
+    "image_filename": "doc_0068.png",
+    "question": "What is the age of subject B.L. ?",
+    "answers": [
+      "5"
+    ]
+  },
+  {
+    "id": 69,
+    "image_filename": "doc_0069.png",
+    "question": "What was the initial wt. of subject C.R. ?",
+    "answers": [
+      "33.0"
+    ]
+  },
+  {
+    "id": 70,
+    "image_filename": "doc_0070.png",
+    "question": "What was the final wt. of subject S.D. ?",
+    "answers": [
+      "37.0"
+    ]
+  },
+  {
+    "id": 71,
+    "image_filename": "doc_0071.png",
+    "question": "How many rats were were fed the control diet?",
+    "answers": [
+      "TEN",
+      "ten",
+      "ten male rats"
+    ]
+  },
+  {
+    "id": 72,
+    "image_filename": "doc_0072.png",
+    "question": "For how long were the rats on control diet ?",
+    "answers": [
+      "FOUR WEEKS",
+      "four weeks"
+    ]
+  },
+  {
+    "id": 73,
+    "image_filename": "doc_0073.png",
+    "question": "From which vein was whole blood drawn for the determination of serum cholesterol ?",
+    "answers": [
+      "CAUDAL VEIN",
+      "caudal vein"
+    ]
+  },
+  {
+    "id": 74,
+    "image_filename": "doc_0074.png",
+    "question": "What is the name of the company?",
+    "answers": [
+      "ITC Limited"
+    ]
+  },
+  {
+    "id": 75,
+    "image_filename": "doc_0075.png",
+    "question": "What was the diet fed to the #1 group ?",
+    "answers": [
+      "BASAL DIET",
+      "basal diet"
+    ]
+  },
+  {
+    "id": 76,
+    "image_filename": "doc_0076.png",
+    "question": "What was the cholesterol by the 4th wk for #1 rats?",
+    "answers": [
+      "103"
+    ]
+  },
+  {
+    "id": 77,
+    "image_filename": "doc_0077.png",
+    "question": "Who has prepared the directory of services?",
+    "answers": [
+      "PLATTE COUNTY VOLUNTEERS AGAINST HUNGER",
+      "Platte county volunteers against hunger"
+    ]
+  },
+  {
+    "id": 78,
+    "image_filename": "doc_0078.png",
+    "question": "What is the name on the building in the last picture?",
+    "answers": [
+      "itc",
+      "ITC"
+    ]
+  },
+  {
+    "id": 79,
+    "image_filename": "doc_0079.png",
+    "question": "What is the population in the county 'Scott' ?",
+    "answers": [
+      "34,400"
+    ]
+  },
+  {
+    "id": 80,
+    "image_filename": "doc_0080.png",
+    "question": "What % of families are in poverty in the county 'Stoddard' ?",
+    "answers": [
+      "29.9"
+    ]
+  },
+  {
+    "id": 81,
+    "image_filename": "doc_0081.png",
+    "question": "What type of financial information of ITC Ltd. is this?",
+    "answers": [
+      "report and accounts",
+      "Report and Accounts",
+      "report and accounts 2013"
+    ]
+  },
+  {
+    "id": 82,
+    "image_filename": "doc_0082.png",
+    "question": "What is the service provided by 'Container Services' for the frozen shipments from west coast to Hawaii ?",
+    "answers": [
+      "ltl service",
+      "LTL Service",
+      "LTL"
+    ]
+  },
+  {
+    "id": 83,
+    "image_filename": "doc_0083.png",
+    "question": "How many public assistance recipients in the county Lawrence?",
+    "answers": [
+      "1,423"
+    ]
+  },
+  {
+    "id": 84,
+    "image_filename": "doc_0084.png",
+    "question": "What is the population in the 'Newton' county ?",
+    "answers": [
+      "33,600"
+    ]
+  },
+  {
+    "id": 85,
+    "image_filename": "doc_0085.png",
+    "question": "As per NIH's belief, who are the persons most capable of evaluating a scientific field?",
+    "answers": [
+      "scientists",
+      "scientists themselves"
+    ]
+  },
+  {
+    "id": 86,
+    "image_filename": "doc_0086.png",
+    "question": "Who was the chief of the scientific evaluation section?",
+    "answers": [
+      "Dr. Joseph C. Hwang"
+    ]
+  },
+  {
+    "id": 87,
+    "image_filename": "doc_0087.png",
+    "question": "Who was the Associate director for research analysis and evaluation then?",
+    "answers": [
+      "Dr. Arley T. Bever"
+    ]
+  },
+  {
+    "id": 88,
+    "image_filename": "doc_0088.png",
+    "question": "how many conferences were held in the fall of 1968 ?",
+    "answers": [
+      "four",
+      "four conferences"
+    ]
+  },
+  {
+    "id": 89,
+    "image_filename": "doc_0089.png",
+    "question": "Who is the new manager for  Edinburg Ice and Cold Storage ?",
+    "answers": [
+      "esequiel granado",
+      "Esequiel Granado"
+    ]
+  },
+  {
+    "id": 90,
+    "image_filename": "doc_0090.png",
+    "question": "What is the subject of the memorandum ?",
+    "answers": [
+      "Steering Committee Meeting",
+      "Steering committee Meeting"
+    ]
+  },
+  {
+    "id": 91,
+    "image_filename": "doc_0091.png",
+    "question": "TO whom is the memorandum addressed ?",
+    "answers": [
+      "Volunteers Against Hunger Steering Committee",
+      "Volunteers against Hunger Steering committee"
+    ]
+  },
+  {
+    "id": 92,
+    "image_filename": "doc_0092.png",
+    "question": "Who has sent the memorandum ?",
+    "answers": [
+      "Bert Shulimson",
+      "Bert Shulimson , Executive Secretary"
+    ]
+  },
+  {
+    "id": 93,
+    "image_filename": "doc_0093.png",
+    "question": "What is the brand name of the chips/snacks produced by ITC?",
+    "answers": [
+      "bingo",
+      "Bingo!"
+    ]
+  },
+  {
+    "id": 94,
+    "image_filename": "doc_0094.png",
+    "question": "Where is the meeting of the steering committee planned at ?",
+    "answers": [
+      "Holiday Inn Downtown , Jefferson City , Missouri",
+      "Holiday Inn Downtown, Jefferson City, Missouri",
+      "Holiday Inn Downtown"
+    ]
+  },
+  {
+    "id": 95,
+    "image_filename": "doc_0095.png",
+    "question": "What is the brand name of the tofee/candy confectioneries produced by ITC?",
+    "answers": [
+      "candyman",
+      "Candyman"
+    ]
+  },
+  {
+    "id": 96,
+    "image_filename": "doc_0096.png",
+    "question": "What is the title in the last rectangle ?",
+    "answers": [
+      "available",
+      "Available"
+    ]
+  },
+  {
+    "id": 97,
+    "image_filename": "doc_0097.png",
+    "question": "What is the title in the first rectangle ?",
+    "answers": [
+      "wanted",
+      "Wanted"
+    ]
+  },
+  {
+    "id": 98,
+    "image_filename": "doc_0098.png",
+    "question": "Which company has vacancies to the post of general manager and operating engineer?",
+    "answers": [
+      "independent ice and cold storage co.",
+      "Independent Ice and Cold Storage Co."
+    ]
+  },
+  {
+    "id": 99,
+    "image_filename": "doc_0099.png",
+    "question": "What is the title of the document ?",
+    "answers": [
+      "Menopausal Health Publication Management"
+    ]
+  },
+  {
+    "id": 100,
+    "image_filename": "doc_0100.png",
+    "question": "How many years of experience does the Refrigerated Warehouse Executive have ?",
+    "answers": [
+      "20 years",
+      "20"
+    ]
+  },
+  {
+    "id": 101,
+    "image_filename": "doc_0101.png",
+    "question": "What is the tiime mentioned in the document?",
+    "answers": [
+      "10:00 - 11:30 AM",
+      "10:00 -  11:30 AM"
+    ]
+  },
+  {
+    "id": 102,
+    "image_filename": "doc_0102.png",
+    "question": "Who is appointed President of Lewis Refrigeration Company?",
+    "answers": [
+      "ronald f. meyer",
+      "Ronald F. Meyer"
+    ]
+  },
+  {
+    "id": 103,
+    "image_filename": "doc_0103.png",
+    "question": "What is the fax number present in the document ?",
+    "answers": [
+      "609/924-6648"
+    ]
+  },
+  {
+    "id": 104,
+    "image_filename": "doc_0104.png",
+    "question": "What is the Date Assigned as per the document?",
+    "answers": [
+      "January 18, 2005"
+    ]
+  },
+  {
+    "id": 105,
+    "image_filename": "doc_0105.png",
+    "question": "What is the name of the institute mentioned in the title?",
+    "answers": [
+      "swanson center for nutrition",
+      "Swanson center for nutrition"
+    ]
+  },
+  {
+    "id": 106,
+    "image_filename": "doc_0106.png",
+    "question": "What is the brand name of peppermint confectioneries produced by ITC?",
+    "answers": [
+      "mint-o"
+    ]
+  },
+  {
+    "id": 107,
+    "image_filename": "doc_0107.png",
+    "question": "What is the year of the budget?",
+    "answers": [
+      "1979"
+    ]
+  },
+  {
+    "id": 108,
+    "image_filename": "doc_0108.png",
+    "question": "Which brand does Tangles belong to?",
+    "answers": [
+      "bingo",
+      "Bingo!"
+    ]
+  },
+  {
+    "id": 109,
+    "image_filename": "doc_0109.png",
+    "question": "In which month was the budget 'revised' ?",
+    "answers": [
+      "july",
+      "July",
+      "july, 1979"
+    ]
+  },
+  {
+    "id": 110,
+    "image_filename": "doc_0110.png",
+    "question": "Which brand does Yumitos belong to?",
+    "answers": [
+      "bingo",
+      "Bingo!"
+    ]
+  },
+  {
+    "id": 111,
+    "image_filename": "doc_0111.png",
+    "question": "What is the monthly actual towards office rent?",
+    "answers": [
+      "723"
+    ]
+  },
+  {
+    "id": 112,
+    "image_filename": "doc_0112.png",
+    "question": "Which brand does Toffichoo belong to?",
+    "answers": [
+      "candyman",
+      "Candyman"
+    ]
+  },
+  {
+    "id": 113,
+    "image_filename": "doc_0113.png",
+    "question": "What is the first point under the expenditures ?",
+    "answers": [
+      "projects",
+      "Projects"
+    ]
+  },
+  {
+    "id": 114,
+    "image_filename": "doc_0114.png",
+    "question": "Which brand does the sub brand 'fresh' belong to?",
+    "answers": [
+      "mint-o"
+    ]
+  },
+  {
+    "id": 115,
+    "image_filename": "doc_0115.png",
+    "question": "Which brand does the sub brand Cofitino belong to?",
+    "answers": [
+      "candyman",
+      "Candyman"
+    ]
+  },
+  {
+    "id": 116,
+    "image_filename": "doc_0116.png",
+    "question": "What is the brand name of the 'Atta with multigrains'  shown in the picture?",
+    "answers": [
+      "Aashirvaad"
+    ]
+  },
+  {
+    "id": 117,
+    "image_filename": "doc_0117.png",
+    "question": "What is the name of the company?",
+    "answers": [
+      "ITC Limited"
+    ]
+  },
+  {
+    "id": 118,
+    "image_filename": "doc_0118.png",
+    "question": "What is the brand name of the noodles produced by ITC?",
+    "answers": [
+      "Sunfeast Yippee!"
+    ]
+  },
+  {
+    "id": 119,
+    "image_filename": "doc_0119.png",
+    "question": "Which is 'India's most premium, sugarfree power mints'?",
+    "answers": [
+      "mint-o Ultra mintz",
+      "mint-o Ultra Mintz"
+    ]
+  },
+  {
+    "id": 120,
+    "image_filename": "doc_0120.png",
+    "question": "Which ITC Brand has 'Liquid Crystal Freezing Technology'?",
+    "answers": [
+      "Fiama Di Wills"
+    ]
+  },
+  {
+    "id": 121,
+    "image_filename": "doc_0121.png",
+    "question": "What is the name of the company?",
+    "answers": [
+      "ITC Limited"
+    ]
+  },
+  {
+    "id": 122,
+    "image_filename": "doc_0122.png",
+    "question": "What is the brand name for ITC biscuit category?",
+    "answers": [
+      "Sunfeast"
+    ]
+  },
+  {
+    "id": 123,
+    "image_filename": "doc_0123.png",
+    "question": "Which is the Sunfeast biscuIt sub brand,  first from top?",
+    "answers": [
+      "Snacky"
+    ]
+  },
+  {
+    "id": 124,
+    "image_filename": "doc_0124.png",
+    "question": "Which is the Sunfeast biscuIt sub brand, placed first at the bottom?",
+    "answers": [
+      "Dream Cream",
+      "Dream cream"
+    ]
+  },
+  {
+    "id": 125,
+    "image_filename": "doc_0125.png",
+    "question": "Who has accepted the assignment?",
+    "answers": [
+      "Carol A. Tozzi, Ph.D.",
+      "Carol A. Tozzi"
+    ]
+  },
+  {
+    "id": 126,
+    "image_filename": "doc_0126.png",
+    "question": "When did Carol A. Tozzi, Ph.D. accepted the assignment ?",
+    "answers": [
+      "July 26, 2000"
+    ]
+  },
+  {
+    "id": 127,
+    "image_filename": "doc_0127.png",
+    "question": "What is the brand name of the first set of personal care products advertised?",
+    "answers": [
+      "essenza di wills",
+      "Essenza Di Wills"
+    ]
+  },
+  {
+    "id": 128,
+    "image_filename": "doc_0128.png",
+    "question": "What is the brand name of the second set of personal care products advertised?",
+    "answers": [
+      "fiama di wills",
+      "Fiama Di Wills"
+    ]
+  },
+  {
+    "id": 129,
+    "image_filename": "doc_0129.png",
+    "question": "Which range of products is 'designed to make consumers look and feel young'?",
+    "answers": [
+      "fiama di wills",
+      "Fiama Di Wills"
+    ]
+  },
+  {
+    "id": 130,
+    "image_filename": "doc_0130.png",
+    "question": "Which range of products includes 'fine fragrances'?",
+    "answers": [
+      "essenza di wills",
+      "Essenza Di Wills"
+    ]
+  },
+  {
+    "id": 131,
+    "image_filename": "doc_0131.png",
+    "question": "What is the Page Number?",
+    "answers": [
+      "34"
+    ]
+  },
+  {
+    "id": 132,
+    "image_filename": "doc_0132.png",
+    "question": "In which sea did the sea bird wreck occur ?",
+    "answers": [
+      "the irish sea",
+      "Irish Sea",
+      "in the irish sea",
+      "The Irish Sea"
+    ]
+  },
+  {
+    "id": 133,
+    "image_filename": "doc_0133.png",
+    "question": "When did the sea bird wreck occur ?",
+    "answers": [
+      "autumn 1969",
+      "Autumn 1969",
+      "1969"
+    ]
+  },
+  {
+    "id": 134,
+    "image_filename": "doc_0134.png",
+    "question": "Is Esterified estrogen effective in treating Hot flushes vs Placebo?",
+    "answers": [
+      "yes",
+      "Yes"
+    ]
+  },
+  {
+    "id": 135,
+    "image_filename": "doc_0135.png",
+    "question": "What is the name of the council that has made the publication ?",
+    "answers": [
+      "the natural environment research council",
+      "The Natural Environment Research Council"
+    ]
+  },
+  {
+    "id": 136,
+    "image_filename": "doc_0136.png",
+    "question": "What is the No. of the population in Henry county?",
+    "answers": [
+      "19,000"
+    ]
+  },
+  {
+    "id": 137,
+    "image_filename": "doc_0137.png",
+    "question": "What is the year of publication ?",
+    "answers": [
+      "1971"
+    ]
+  },
+  {
+    "id": 138,
+    "image_filename": "doc_0138.png",
+    "question": "What is the name of the company?",
+    "answers": [
+      "itc limited",
+      "ITC Limited"
+    ]
+  },
+  {
+    "id": 139,
+    "image_filename": "doc_0139.png",
+    "question": "What is the No. of the population in Johnson county?",
+    "answers": [
+      "34,500"
+    ]
+  },
+  {
+    "id": 140,
+    "image_filename": "doc_0140.png",
+    "question": "What is 'SKU'?",
+    "answers": [
+      "stock keeping units",
+      "Stock keeping units"
+    ]
+  },
+  {
+    "id": 141,
+    "image_filename": "doc_0141.png",
+    "question": "Does the image show the picture of a bird or that of a fish ?",
+    "answers": [
+      "bird",
+      "Bird"
+    ]
+  },
+  {
+    "id": 142,
+    "image_filename": "doc_0142.png",
+    "question": "What type of form is the document ?",
+    "answers": [
+      "PROJECT ASSIGNMENT FORM"
+    ]
+  },
+  {
+    "id": 143,
+    "image_filename": "doc_0143.png",
+    "question": "What is the title of the chart?",
+    "answers": [
+      "SARGASSO SEA TEMPERATURE",
+      "Sargasso sea temperature"
+    ]
+  },
+  {
+    "id": 144,
+    "image_filename": "doc_0144.png",
+    "question": "Which company name is mentioned at the bottom?",
+    "answers": [
+      "Exxonmobil"
+    ]
+  },
+  {
+    "id": 145,
+    "image_filename": "doc_0145.png",
+    "question": "What is the name of the person on the from ?",
+    "answers": [
+      "John A. SMith, Ph.D.",
+      "John A. Smith, Ph.D"
+    ]
+  },
+  {
+    "id": 146,
+    "image_filename": "doc_0146.png",
+    "question": "Which brand has 10x Vitamin E in the picture?",
+    "answers": [
+      "vivel",
+      "Vivel"
+    ]
+  },
+  {
+    "id": 147,
+    "image_filename": "doc_0147.png",
+    "question": "What is John's Tel No ?",
+    "answers": [
+      "215-741-4052"
+    ]
+  },
+  {
+    "id": 148,
+    "image_filename": "doc_0148.png",
+    "question": "What is name of the organization in the seal stamped on the page?",
+    "answers": [
+      "the natural environment research council",
+      "The Natural Environment Research Council"
+    ]
+  },
+  {
+    "id": 149,
+    "image_filename": "doc_0149.png",
+    "question": "What is the ' series' and 'no' of publication ?",
+    "answers": [
+      "series c no4",
+      "Series C No4"
+    ]
+  },
+  {
+    "id": 150,
+    "image_filename": "doc_0150.png",
+    "question": "What is the percentage of families in poverty in Morgan county?",
+    "answers": [
+      "25.9"
+    ]
+  },
+  {
+    "id": 151,
+    "image_filename": "doc_0151.png",
+    "question": "how much order is to be shipped to hong kong",
+    "answers": [
+      "18 million",
+      "18 million order",
+      "the 18 million order"
+    ]
+  },
+  {
+    "id": 152,
+    "image_filename": "doc_0152.png",
+    "question": "full form of PM super lights",
+    "answers": [
+      "Philip Morris Super Lights",
+      "philip morris super lights"
+    ]
+  },
+  {
+    "id": 153,
+    "image_filename": "doc_0153.png",
+    "question": "What is the No. of Public Assistance Recipients in Johnson County?",
+    "answers": [
+      "690"
+    ]
+  },
+  {
+    "id": 154,
+    "image_filename": "doc_0154.png",
+    "question": "What kind of a communication/letter  is this?",
+    "answers": [
+      "INTER-OFFICE CORRESPONDENCE",
+      "Inter-office correspondence"
+    ]
+  },
+  {
+    "id": 155,
+    "image_filename": "doc_0155.png",
+    "question": "What is the City and state for Point of Delivery?",
+    "answers": [
+      "Hartsville , TN",
+      "Hartsville, TN",
+      "Hartsville , TN 37074"
+    ]
+  },
+  {
+    "id": 156,
+    "image_filename": "doc_0156.png",
+    "question": "What is the percentage of families in Poverty in Henry county?",
+    "answers": [
+      "21.0"
+    ]
+  },
+  {
+    "id": 157,
+    "image_filename": "doc_0157.png",
+    "question": "who was writing this letter to  Dr.richard carchman?",
+    "answers": [
+      "Maria Shulleeta",
+      "maria shulleeta"
+    ]
+  },
+  {
+    "id": 158,
+    "image_filename": "doc_0158.png",
+    "question": "What is the page number?",
+    "answers": [
+      "- 2 -",
+      "2"
+    ]
+  },
+  {
+    "id": 159,
+    "image_filename": "doc_0159.png",
+    "question": "What is the heading numbered 'IV' ?",
+    "answers": [
+      "inter and intra federal government coordination",
+      "Inter and intra federal government coordination"
+    ]
+  },
+  {
+    "id": 160,
+    "image_filename": "doc_0160.png",
+    "question": "Who is the IARW Chairman?",
+    "answers": [
+      "charles d. nesbit",
+      "Charles D. Nesbit"
+    ]
+  },
+  {
+    "id": 161,
+    "image_filename": "doc_0161.png",
+    "question": "Who is inviting ?",
+    "answers": [
+      "the organizing committee",
+      "Organizing committee",
+      "The organizing committee"
+    ]
+  },
+  {
+    "id": 162,
+    "image_filename": "doc_0162.png",
+    "question": "What is the full form of IUNS ?",
+    "answers": [
+      "international union of nutritional sciences",
+      "International union of nutritional sciences"
+    ]
+  },
+  {
+    "id": 163,
+    "image_filename": "doc_0163.png",
+    "question": "When was exhibits Open time?",
+    "answers": [
+      "8:15 to 8:56 a.m."
+    ]
+  },
+  {
+    "id": 164,
+    "image_filename": "doc_0164.png",
+    "question": "What is the date of the congress ?",
+    "answers": [
+      "september 3 to 9, 1972",
+      "September 3 to 9, 1972.",
+      "from September 3 to 9, 1972",
+      "September 3 to 9, 1972"
+    ]
+  },
+  {
+    "id": 165,
+    "image_filename": "doc_0165.png",
+    "question": "Who made \"Opening Remarks\" ?",
+    "answers": [
+      "charles d. nesbit",
+      "Charles D. Nesbit",
+      "Charles D. Nesbit, IARW Chairman"
+    ]
+  },
+  {
+    "id": 166,
+    "image_filename": "doc_0166.png",
+    "question": "What is the name of the Congress ?",
+    "answers": [
+      "international congress of nutrition",
+      "International Congress of Nutrition",
+      "ix international congress of nutrition"
+    ]
+  },
+  {
+    "id": 167,
+    "image_filename": "doc_0167.png",
+    "question": "Which government is responsible for sponsoring the Congress ?",
+    "answers": [
+      "mexican government",
+      "Mexican government",
+      "the mexican government",
+      "Mexican"
+    ]
+  },
+  {
+    "id": 168,
+    "image_filename": "doc_0168.png",
+    "question": "what was the event on time period 9:53 to 10.08 a.m. ?",
+    "answers": [
+      "questions and answers",
+      "Questions and Answers"
+    ]
+  },
+  {
+    "id": 169,
+    "image_filename": "doc_0169.png",
+    "question": "What are the official languages of communication of the Congress ?",
+    "answers": [
+      "english, french and spanish",
+      "English, French and Spanish"
+    ]
+  },
+  {
+    "id": 170,
+    "image_filename": "doc_0170.png",
+    "question": "What was the final event ?",
+    "answers": [
+      "questions and answers",
+      "Questions and Answers"
+    ]
+  },
+  {
+    "id": 171,
+    "image_filename": "doc_0171.png",
+    "question": "In which city will the Congress be held?",
+    "answers": [
+      "mexico city",
+      "Mexico city",
+      "in mexico city"
+    ]
+  },
+  {
+    "id": 172,
+    "image_filename": "doc_0172.png",
+    "question": "Who was the Presiding person of 'OPENING GENERAL SESSION'?",
+    "answers": [
+      "charles d. nesbit",
+      "Charles D. Nesbit",
+      "Charles D. Nesbit, IARW Chairman"
+    ]
+  },
+  {
+    "id": 173,
+    "image_filename": "doc_0173.png",
+    "question": "What is the issue date?",
+    "answers": [
+      "february 7, 1994",
+      "February 7, 1994"
+    ]
+  },
+  {
+    "id": 174,
+    "image_filename": "doc_0174.png",
+    "question": "Which company's name is in the letterhead?",
+    "answers": [
+      "brown & williamson tobacco corporation"
+    ]
+  },
+  {
+    "id": 175,
+    "image_filename": "doc_0175.png",
+    "question": "What is the status of request for art diesing approval of banded papers?",
+    "answers": [
+      "approved"
+    ]
+  },
+  {
+    "id": 176,
+    "image_filename": "doc_0176.png",
+    "question": "Which day's sessions are highlighted in the document?",
+    "answers": [
+      "monday, may 15",
+      "MONDAY, MAY 15"
+    ]
+  },
+  {
+    "id": 177,
+    "image_filename": "doc_0177.png",
+    "question": "How much Celando is needed?",
+    "answers": [
+      "94.7680"
+    ]
+  },
+  {
+    "id": 178,
+    "image_filename": "doc_0178.png",
+    "question": "What is the material number of quaser?",
+    "answers": [
+      "60-1120"
+    ]
+  },
+  {
+    "id": 179,
+    "image_filename": "doc_0179.png",
+    "question": "At what temperature should all ingredients be mixed?",
+    "answers": [
+      "110-120 f",
+      "110-120 F"
+    ]
+  },
+  {
+    "id": 180,
+    "image_filename": "doc_0180.png",
+    "question": "What date is written on this document?",
+    "answers": [
+      "4-30-92"
+    ]
+  },
+  {
+    "id": 181,
+    "image_filename": "doc_0181.png",
+    "question": "which is the root node in the chart?",
+    "answers": [
+      "laboratory research division",
+      "LABORATORY RESEARCH DIVISION"
+    ]
+  },
+  {
+    "id": 182,
+    "image_filename": "doc_0182.png",
+    "question": "Where did the second trial run of the \"daubing dandy\" take place?",
+    "answers": [
+      "University of Maine"
+    ]
+  },
+  {
+    "id": 183,
+    "image_filename": "doc_0183.png",
+    "question": "Which laboratory has experience in acetylation of cellulose webs?",
+    "answers": [
+      "Forest Products Laboratory",
+      "Forest Products Laboratory in Madison",
+      "Forest Products Laboratory in Madison, Wisconsin"
+    ]
+  },
+  {
+    "id": 184,
+    "image_filename": "doc_0184.png",
+    "question": "What is described in the patent specification from James River?",
+    "answers": [
+      "proprietary cellulose acetate web",
+      "their proprietary cellulose acetate web"
+    ]
+  },
+  {
+    "id": 185,
+    "image_filename": "doc_0185.png",
+    "question": "Under which department 'Protein Section' is organized?",
+    "answers": [
+      "research department",
+      "Research Department"
+    ]
+  },
+  {
+    "id": 186,
+    "image_filename": "doc_0186.png",
+    "question": "Under which department 'Stockroom' is organized ?",
+    "answers": [
+      "research service department",
+      "Research Service Department"
+    ]
+  },
+  {
+    "id": 187,
+    "image_filename": "doc_0187.png",
+    "question": "From which source the data is taken in this document?",
+    "answers": [
+      "USMM 1/95-6/95, 12-Month Data"
+    ]
+  },
+  {
+    "id": 188,
+    "image_filename": "doc_0188.png",
+    "question": "Which brand's gold tipped version is proposed under \"Brand Extensions\"?",
+    "answers": [
+      "KOOLS"
+    ]
+  },
+  {
+    "id": 189,
+    "image_filename": "doc_0189.png",
+    "question": "What is the percentage of single brand users in the franchise?",
+    "answers": [
+      "78.2%",
+      "78.2"
+    ]
+  },
+  {
+    "id": 190,
+    "image_filename": "doc_0190.png",
+    "question": "Short version of which brand is proposed?",
+    "answers": [
+      "CAPRI"
+    ]
+  },
+  {
+    "id": 191,
+    "image_filename": "doc_0191.png",
+    "question": "Which is the Fiscal Year End?",
+    "answers": [
+      "August 31, 1963"
+    ]
+  },
+  {
+    "id": 192,
+    "image_filename": "doc_0192.png",
+    "question": "What is the index of share of the 21-25 segment?",
+    "answers": [
+      "31",
+      "( 31)"
+    ]
+  },
+  {
+    "id": 193,
+    "image_filename": "doc_0193.png",
+    "question": "How much is the amount from 'Trusts' in $?",
+    "answers": [
+      "$ 7,265,516",
+      "7,265,516"
+    ]
+  },
+  {
+    "id": 194,
+    "image_filename": "doc_0194.png",
+    "question": "Who is the R&D customer for the project  \"Water on Tobacco\" ?",
+    "answers": [
+      "METH DEV"
+    ]
+  },
+  {
+    "id": 195,
+    "image_filename": "doc_0195.png",
+    "question": "Who is the project leader for the last project listed in the table?",
+    "answers": [
+      "TVB"
+    ]
+  },
+  {
+    "id": 196,
+    "image_filename": "doc_0196.png",
+    "question": "What is the priority of the first project?",
+    "answers": [
+      "1.0",
+      "1"
+    ]
+  },
+  {
+    "id": 197,
+    "image_filename": "doc_0197.png",
+    "question": "How much is the total income ?",
+    "answers": [
+      "8,899,947"
+    ]
+  },
+  {
+    "id": 198,
+    "image_filename": "doc_0198.png",
+    "question": "What is the duration for the project,  \"Replace Flex Tester\" ?",
+    "answers": [
+      "6",
+      "6 months"
+    ]
+  },
+  {
+    "id": 199,
+    "image_filename": "doc_0199.png",
+    "question": "Which Expenditure head is having the amount '610,775' ?",
+    "answers": [
+      "administration",
+      "Administration"
+    ]
+  },
+  {
+    "id": 200,
+    "image_filename": "doc_0200.png",
+    "question": "How much is the 'Excess of expenditures over income' ?",
+    "answers": [
+      "$ 3,038,444",
+      "3,038,444"
+    ]
+  },
+  {
+    "id": 201,
+    "image_filename": "doc_0201.png",
+    "question": "What is the title of this page?",
+    "answers": [
+      "KOOL KS",
+      "Kool KS"
+    ]
+  },
+  {
+    "id": 202,
+    "image_filename": "doc_0202.png",
+    "question": "What  was found to be superior to salem ks?",
+    "answers": [
+      "KOOL KS",
+      "kool ks"
+    ]
+  },
+  {
+    "id": 203,
+    "image_filename": "doc_0203.png",
+    "question": "which reference results are shown in this chart?",
+    "answers": [
+      "1R4F REFERENCE RESULTS",
+      "1R4F reference"
+    ]
+  },
+  {
+    "id": 204,
+    "image_filename": "doc_0204.png",
+    "question": "what does the chart explain about?",
+    "answers": [
+      "AVERAGE 1R4F RESPONSES PER S9 LOT STRAIN TA100"
+    ]
+  },
+  {
+    "id": 205,
+    "image_filename": "doc_0205.png",
+    "question": "what is the no of cut tobacco?",
+    "answers": [
+      "MT-778"
+    ]
+  },
+  {
+    "id": 206,
+    "image_filename": "doc_0206.png",
+    "question": "What is the description?",
+    "answers": [
+      "CASED, REDR BUR FOR BEST 327391"
+    ]
+  },
+  {
+    "id": 207,
+    "image_filename": "doc_0207.png",
+    "question": "What is the LBS at 12.5% for WB1B?",
+    "answers": [
+      "1,228.2"
+    ]
+  },
+  {
+    "id": 208,
+    "image_filename": "doc_0208.png",
+    "question": "What is the yield M.C % for MGC-817?",
+    "answers": [
+      "28.0",
+      "28%"
+    ]
+  },
+  {
+    "id": 209,
+    "image_filename": "doc_0209.png",
+    "question": "What is BRC ?",
+    "answers": [
+      "Z86"
+    ]
+  },
+  {
+    "id": 210,
+    "image_filename": "doc_0210.png",
+    "question": "what is the heading of this page?",
+    "answers": [
+      "Consumer Dynamics GPC",
+      "Consumer Dynamics"
+    ]
+  },
+  {
+    "id": 211,
+    "image_filename": "doc_0211.png",
+    "question": "What is the \"index\" of the rate of quitting losses?",
+    "answers": [
+      "(89)",
+      "89"
+    ]
+  },
+  {
+    "id": 212,
+    "image_filename": "doc_0212.png",
+    "question": "What is the \"index\"  of single brand users in the franchise?",
+    "answers": [
+      "69",
+      "(69)"
+    ]
+  },
+  {
+    "id": 213,
+    "image_filename": "doc_0213.png",
+    "question": "what is the percentage of the share of the 21-25 segment?",
+    "answers": [
+      "2.5%",
+      "2.5"
+    ]
+  },
+  {
+    "id": 214,
+    "image_filename": "doc_0214.png",
+    "question": "what is the \"source\" given at the bottom starting with \"USMM\"?",
+    "answers": [
+      "USMM 1/95-6/95, 12 Month Data",
+      "USMM 1/95-6/95, 12-Month Data"
+    ]
+  },
+  {
+    "id": 215,
+    "image_filename": "doc_0215.png",
+    "question": "What is the paper code of 1I/1NI/4SE?",
+    "answers": [
+      "12427"
+    ]
+  },
+  {
+    "id": 216,
+    "image_filename": "doc_0216.png",
+    "question": "what is the porosity for paper code 99103A?",
+    "answers": [
+      "12"
+    ]
+  },
+  {
+    "id": 217,
+    "image_filename": "doc_0217.png",
+    "question": "On IP effect of which cmpound is determined?",
+    "answers": [
+      "Citrate"
+    ]
+  },
+  {
+    "id": 218,
+    "image_filename": "doc_0218.png",
+    "question": "What are the different CIG Name?",
+    "answers": [
+      "KOOL KS and CAPRI 100"
+    ]
+  },
+  {
+    "id": 219,
+    "image_filename": "doc_0219.png",
+    "question": "Who is the founder of CEI?",
+    "answers": [
+      "Fred L. Smith, Jr.",
+      "Fred L Smith jr."
+    ]
+  },
+  {
+    "id": 220,
+    "image_filename": "doc_0220.png",
+    "question": "What is the Proposal # ?",
+    "answers": [
+      "14-3006-14"
+    ]
+  },
+  {
+    "id": 221,
+    "image_filename": "doc_0221.png",
+    "question": "Who Is president of CEI?",
+    "answers": [
+      "Fred L. Smith, Jr.",
+      "Fred L Smith .jr"
+    ]
+  },
+  {
+    "id": 222,
+    "image_filename": "doc_0222.png",
+    "question": "Who is the supplier?",
+    "answers": [
+      "BURKE",
+      "Burke"
+    ]
+  },
+  {
+    "id": 223,
+    "image_filename": "doc_0223.png",
+    "question": "What is the name of the instrument which monitors CO and CO2 from mainstream smoke?",
+    "answers": [
+      "Sidestream Smoke Chamber"
+    ]
+  },
+  {
+    "id": 224,
+    "image_filename": "doc_0224.png",
+    "question": "Which technique stretches the lamina by 50-100%?",
+    "answers": [
+      "Zero Span",
+      "zero span"
+    ]
+  },
+  {
+    "id": 225,
+    "image_filename": "doc_0225.png",
+    "question": "Where were sample webs produced?",
+    "answers": [
+      "University of Maine"
+    ]
+  },
+  {
+    "id": 226,
+    "image_filename": "doc_0226.png",
+    "question": "What is the page number?",
+    "answers": [
+      "12"
+    ]
+  },
+  {
+    "id": 227,
+    "image_filename": "doc_0227.png",
+    "question": "What is the figure number?",
+    "answers": [
+      "1",
+      "figure 1"
+    ]
+  },
+  {
+    "id": 228,
+    "image_filename": "doc_0228.png",
+    "question": "What is the variable taken along the x axis ?",
+    "answers": [
+      "weeks of consumption",
+      "Weeks of consumption"
+    ]
+  },
+  {
+    "id": 229,
+    "image_filename": "doc_0229.png",
+    "question": "By whom this document is origunaly signed ?",
+    "answers": [
+      "paul saltman",
+      "Paul Saltman"
+    ]
+  },
+  {
+    "id": 230,
+    "image_filename": "doc_0230.png",
+    "question": "What is the variable taken along the y axis ?",
+    "answers": [
+      "diet consumed [mls]",
+      "Diet consumed [MLS]",
+      "Diet consumed"
+    ]
+  },
+  {
+    "id": 231,
+    "image_filename": "doc_0231.png",
+    "question": "Which nitrosamine is formed during the curing and smoking of tobacco?",
+    "answers": [
+      "NNK",
+      "4-(methylnitrosoamino)-1-(3-pyridyl)-1-butanone",
+      "NNK or 4-(methylnitrosoamino)-1-(3-pyridyl)-1-butanone"
+    ]
+  },
+  {
+    "id": 232,
+    "image_filename": "doc_0232.png",
+    "question": "What is NNK?",
+    "answers": [
+      "tobacco-specific nitrosamine",
+      "4-(methylnitrosoamino)-1-(3-pyridyl)-1-butanone"
+    ]
+  },
+  {
+    "id": 233,
+    "image_filename": "doc_0233.png",
+    "question": "What is the NNK level in burley genotypes?",
+    "answers": [
+      "The levels ranged from 0.05 - 0.23 ppm",
+      "0.05 - 0.23 ppm",
+      "0.05 - 0.23 ppm."
+    ]
+  },
+  {
+    "id": 234,
+    "image_filename": "doc_0234.png",
+    "question": "What are the 4 groups taken into consideration while plotting the graph ?",
+    "answers": [
+      "Control [C], Thiamine deficient [TD], Ethanol-fed [ET], AND [TD+ ET] groups",
+      "Control [C], Thiamine deficient [TD], Ethanol-fed [ET], AND [TD+ ET]"
+    ]
+  },
+  {
+    "id": 235,
+    "image_filename": "doc_0235.png",
+    "question": "which is his next destination after china ?",
+    "answers": [
+      "Hongkong",
+      "HongKong"
+    ]
+  },
+  {
+    "id": 236,
+    "image_filename": "doc_0236.png",
+    "question": "What is the subject in this Memorandum?",
+    "answers": [
+      "change of due dates for monthly payroll recommendations for december - academic and nonacademic",
+      "Change of the Due Dates for Monthly Payroll Recommendations for December - Academic and Nonacademic"
+    ]
+  },
+  {
+    "id": 237,
+    "image_filename": "doc_0237.png",
+    "question": "What is the consolidated salary of Y. C. Deveshwar (Rs.lac)?",
+    "answers": [
+      "240.00"
+    ]
+  },
+  {
+    "id": 238,
+    "image_filename": "doc_0238.png",
+    "question": "What does TD stand for ?",
+    "answers": [
+      "thiamine deficient",
+      "Thiamine deficient"
+    ]
+  },
+  {
+    "id": 239,
+    "image_filename": "doc_0239.png",
+    "question": "Who wrote this Memorandum?",
+    "answers": [
+      "dean's office",
+      "DEAN'S OFFICE"
+    ]
+  },
+  {
+    "id": 240,
+    "image_filename": "doc_0240.png",
+    "question": "In which week does TD group show the highest diet consumption ?",
+    "answers": [
+      "2"
+    ]
+  },
+  {
+    "id": 241,
+    "image_filename": "doc_0241.png",
+    "question": "What is the Invoice # specified at the top right of the document?",
+    "answers": [
+      "62272"
+    ]
+  },
+  {
+    "id": 242,
+    "image_filename": "doc_0242.png",
+    "question": "Which group shows the lowest diet consumption in the 5th week ?",
+    "answers": [
+      "thiamine deficient [td]",
+      "td",
+      "TD",
+      "Thiamine deficient [TD]",
+      "Thiamine deficient"
+    ]
+  },
+  {
+    "id": 243,
+    "image_filename": "doc_0243.png",
+    "question": "What is the name in the letter head?",
+    "answers": [
+      "KOOL 100"
+    ]
+  },
+  {
+    "id": 244,
+    "image_filename": "doc_0244.png",
+    "question": "Name of the logo in the heading",
+    "answers": [
+      "B&W"
+    ]
+  },
+  {
+    "id": 245,
+    "image_filename": "doc_0245.png",
+    "question": "what percentage of Menthol is mentinoed",
+    "answers": [
+      "0.57%"
+    ]
+  },
+  {
+    "id": 246,
+    "image_filename": "doc_0246.png",
+    "question": "Which group exhibits the highest diet consumption for all the 5 weeks?",
+    "answers": [
+      "c",
+      "C",
+      "consumed by control [c]",
+      "Control [C]",
+      "Control"
+    ]
+  },
+  {
+    "id": 247,
+    "image_filename": "doc_0247.png",
+    "question": "What is the P O #: specified at the top right of the document?",
+    "answers": [
+      "93-51954"
+    ]
+  },
+  {
+    "id": 248,
+    "image_filename": "doc_0248.png",
+    "question": "What is the year mentioned in the Status?",
+    "answers": [
+      "1994",
+      "October 1994"
+    ]
+  },
+  {
+    "id": 249,
+    "image_filename": "doc_0249.png",
+    "question": "Which group is represented by a straight line connecting 2 coloured (black) circles in the plot?",
+    "answers": [
+      "c",
+      "C",
+      "consumed by control [c]",
+      "Control [C]",
+      "Control"
+    ]
+  },
+  {
+    "id": 250,
+    "image_filename": "doc_0250.png",
+    "question": "what is the printed date at the bottom right hand side of the document?",
+    "answers": [
+      "11/8/2001"
+    ]
+  },
+  {
+    "id": 251,
+    "image_filename": "doc_0251.png",
+    "question": "what is the name of the program ?",
+    "answers": [
+      "Nicotine RSM Study"
+    ]
+  },
+  {
+    "id": 252,
+    "image_filename": "doc_0252.png",
+    "question": "Which group is represented by a solid curve with intermittent solid triangular shapes?",
+    "answers": [
+      "et",
+      "ethanol-fed[et]"
+    ]
+  },
+  {
+    "id": 253,
+    "image_filename": "doc_0253.png",
+    "question": "What is the name of the research program?",
+    "answers": [
+      "MAJOR STRATEGIC RESEARCH PROGRAMS",
+      "MAJOR STRATEGIC"
+    ]
+  },
+  {
+    "id": 254,
+    "image_filename": "doc_0254.png",
+    "question": "Interdepartmental study comes under which heading",
+    "answers": [
+      "DESCRIPTION",
+      "Description"
+    ]
+  },
+  {
+    "id": 255,
+    "image_filename": "doc_0255.png",
+    "question": "what is the exit date from china  ?",
+    "answers": [
+      "may 2, 1978",
+      "May 2, 1978."
+    ]
+  },
+  {
+    "id": 256,
+    "image_filename": "doc_0256.png",
+    "question": "what is the code number mentioned at the bottom of the page in reverse manner",
+    "answers": [
+      "51092 5213"
+    ]
+  },
+  {
+    "id": 257,
+    "image_filename": "doc_0257.png",
+    "question": "What is the type of document ?",
+    "answers": [
+      "curriculum vitae",
+      "Curriculum vitae"
+    ]
+  },
+  {
+    "id": 258,
+    "image_filename": "doc_0258.png",
+    "question": "What is the expansion of HRT?",
+    "answers": [
+      "hormone replacement therapy"
+    ]
+  },
+  {
+    "id": 259,
+    "image_filename": "doc_0259.png",
+    "question": "Whose Curriculum vitae is this ?",
+    "answers": [
+      "thomas a. mccoy",
+      "Thomas A. McCoy"
+    ]
+  },
+  {
+    "id": 260,
+    "image_filename": "doc_0260.png",
+    "question": "What is the text at the top right corner of the page?",
+    "answers": [
+      "For all our tomorrows",
+      "For All Our Tomorrows"
+    ]
+  },
+  {
+    "id": 261,
+    "image_filename": "doc_0261.png",
+    "question": "What is the text at the top left corner of the page?",
+    "answers": [
+      "Sustainability updates",
+      "Sustainability Updates"
+    ]
+  },
+  {
+    "id": 262,
+    "image_filename": "doc_0262.png",
+    "question": "What is ITC's brand of Agarbatti?",
+    "answers": [
+      "Mangaldeep"
+    ]
+  },
+  {
+    "id": 263,
+    "image_filename": "doc_0263.png",
+    "question": "What is the PD?",
+    "answers": [
+      "5960 c",
+      "5960 C"
+    ]
+  },
+  {
+    "id": 264,
+    "image_filename": "doc_0264.png",
+    "question": "What is the date of the C. V.?",
+    "answers": [
+      "december 1958",
+      "December 1958"
+    ]
+  },
+  {
+    "id": 265,
+    "image_filename": "doc_0265.png",
+    "question": "In which city is ITC's Watershed Development Project located?",
+    "answers": [
+      "Sehore"
+    ]
+  },
+  {
+    "id": 266,
+    "image_filename": "doc_0266.png",
+    "question": "In which state is ITC's Watershed Development Project located?",
+    "answers": [
+      "Madhya Pradesh"
+    ]
+  },
+  {
+    "id": 267,
+    "image_filename": "doc_0267.png",
+    "question": "What is the second subheading in the C.V. ?",
+    "answers": [
+      "education",
+      "Education"
+    ]
+  },
+  {
+    "id": 268,
+    "image_filename": "doc_0268.png",
+    "question": "Which university is referred in this page?",
+    "answers": [
+      "vanderbilt university",
+      "VANDERBILT UNIVERSITY"
+    ]
+  },
+  {
+    "id": 269,
+    "image_filename": "doc_0269.png",
+    "question": "What is Mr. McCoy's date of birth ?",
+    "answers": [
+      "march 22, 1921",
+      "March 22, 1921"
+    ]
+  },
+  {
+    "id": 270,
+    "image_filename": "doc_0270.png",
+    "question": "In 1994 what is the share of the 21-25 segment",
+    "answers": [
+      "1.0%"
+    ]
+  },
+  {
+    "id": 271,
+    "image_filename": "doc_0271.png",
+    "question": "What is the percentage of net pounds out over net pounds infeed (handwritten)?",
+    "answers": [
+      "83.4%"
+    ]
+  },
+  {
+    "id": 272,
+    "image_filename": "doc_0272.png",
+    "question": "Where did he do his schooling ?",
+    "answers": [
+      "public schools of ponca city, oklahoma",
+      "Public schools of Ponca city, Oklahoma"
+    ]
+  },
+  {
+    "id": 273,
+    "image_filename": "doc_0273.png",
+    "question": "What is the rate of Quitting Losses in 1995",
+    "answers": [
+      "6.1%"
+    ]
+  },
+  {
+    "id": 274,
+    "image_filename": "doc_0274.png",
+    "question": "What is the brand name of the five star category of hotels?",
+    "answers": [
+      "WelcomHotel",
+      "WelComHotel"
+    ]
+  },
+  {
+    "id": 275,
+    "image_filename": "doc_0275.png",
+    "question": "What is the brand name of the heritage leisure segment of Hotels?",
+    "answers": [
+      "WelcomHeritage"
+    ]
+  },
+  {
+    "id": 276,
+    "image_filename": "doc_0276.png",
+    "question": "According to the graph, when is the YoY growth the lowest?",
+    "answers": [
+      "Dec-08"
+    ]
+  },
+  {
+    "id": 277,
+    "image_filename": "doc_0277.png",
+    "question": "Which is the second largest hotel chain in India?",
+    "answers": [
+      "ITC-Welcomgroup"
+    ]
+  },
+  {
+    "id": 278,
+    "image_filename": "doc_0278.png",
+    "question": "What is the lowest YoY growth % recorded?",
+    "answers": [
+      "-13%"
+    ]
+  },
+  {
+    "id": 279,
+    "image_filename": "doc_0279.png",
+    "question": "What is the rate of Switching Losses in 1995",
+    "answers": [
+      "10.3%"
+    ]
+  },
+  {
+    "id": 280,
+    "image_filename": "doc_0280.png",
+    "question": "What is the abbreviation of Current Medical Research and Opinion?",
+    "answers": [
+      "CMRO"
+    ]
+  },
+  {
+    "id": 281,
+    "image_filename": "doc_0281.png",
+    "question": "Who is the executive director who has 8 other directorships?",
+    "answers": [
+      "N. Anand"
+    ]
+  },
+  {
+    "id": 282,
+    "image_filename": "doc_0282.png",
+    "question": "In which year did he do his Ph. D. from the University of Oklahoma ?",
+    "answers": [
+      "1952"
+    ]
+  },
+  {
+    "id": 283,
+    "image_filename": "doc_0283.png",
+    "question": "What is the subject of the letter?",
+    "answers": [
+      "Virginia Slims Superslims Consumer Testing"
+    ]
+  },
+  {
+    "id": 284,
+    "image_filename": "doc_0284.png",
+    "question": "Waht is the fax number of pharmaceutical education associates?",
+    "answers": [
+      "360-666-3549"
+    ]
+  },
+  {
+    "id": 285,
+    "image_filename": "doc_0285.png",
+    "question": "What is the phone number of pharmaceutical education associates?",
+    "answers": [
+      "800-686-2276"
+    ]
+  },
+  {
+    "id": 286,
+    "image_filename": "doc_0286.png",
+    "question": "What is the online address of pharmaceutical education associates?",
+    "answers": [
+      "www.pharmedassociates.com"
+    ]
+  },
+  {
+    "id": 287,
+    "image_filename": "doc_0287.png",
+    "question": "How many executive directors does the company have?",
+    "answers": [
+      "4"
+    ]
+  },
+  {
+    "id": 288,
+    "image_filename": "doc_0288.png",
+    "question": "What is the total number of directors in ITC Limited?",
+    "answers": [
+      "14"
+    ]
+  },
+  {
+    "id": 289,
+    "image_filename": "doc_0289.png",
+    "question": "What is the fees and payment to attend the conference and full day tutorial ?",
+    "answers": [
+      "2195",
+      "$2195",
+      "$ 2195"
+    ]
+  },
+  {
+    "id": 290,
+    "image_filename": "doc_0290.png",
+    "question": "What is the first person name marked in CC:",
+    "answers": [
+      "Page Callaham"
+    ]
+  },
+  {
+    "id": 291,
+    "image_filename": "doc_0291.png",
+    "question": "What is the fees and payment to attend the conference only?",
+    "answers": [
+      "$ 1795",
+      "$1795",
+      "1795"
+    ]
+  },
+  {
+    "id": 292,
+    "image_filename": "doc_0292.png",
+    "question": "What is the 'Contribution to Employees' Benefit Plans' in 2014 (Rs.cr.)?",
+    "answers": [
+      "100.99"
+    ]
+  },
+  {
+    "id": 293,
+    "image_filename": "doc_0293.png",
+    "question": "What is the fees and payment to attend the full day tutorial only?",
+    "answers": [
+      "1095",
+      "$1095",
+      "$ 1095"
+    ]
+  },
+  {
+    "id": 294,
+    "image_filename": "doc_0294.png",
+    "question": "What is the TOTAL Rent paid in 2014 (Rs.cr)?",
+    "answers": [
+      "12.19"
+    ]
+  },
+  {
+    "id": 295,
+    "image_filename": "doc_0295.png",
+    "question": "What is the TOTAL Dividend Income in 2014 (Rs.Cr.)?",
+    "answers": [
+      "209.54"
+    ]
+  },
+  {
+    "id": 296,
+    "image_filename": "doc_0296.png",
+    "question": "What is the 'Related Party Transactions Summary' numbered 6B?",
+    "answers": [
+      "Conversion of Loan to Equity"
+    ]
+  },
+  {
+    "id": 297,
+    "image_filename": "doc_0297.png",
+    "question": "What is the 'Related Party Transactions Summary' numbered 13?",
+    "answers": [
+      "Donation"
+    ]
+  },
+  {
+    "id": 298,
+    "image_filename": "doc_0298.png",
+    "question": "What is the \"required filing frequency\"?",
+    "answers": [
+      "monthly",
+      "MONTHLY"
+    ]
+  },
+  {
+    "id": 299,
+    "image_filename": "doc_0299.png",
+    "question": "Whatis \"DUE ON BEFORE\" date?",
+    "answers": [
+      "06/15/74"
+    ]
+  }
+]

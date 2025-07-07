@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "image_filename": "doc1.png",
+    "question": "When did the show conclude on?",
+    "answers": [
+      "May 19, 2019", "19/05/2019"
+    ]
+  },
+
+  {
+    "id": 2,
+    "image_filename": "doc2.png",
+    "question": "What is the first title in the internation TV shows list?",
+    "answers": [
+      "The summer Hikaru Died"
+    ]
+  },
+
+    {
+    "id": 3,
+    "image_filename": "doc3.png",
+    "question": "What is the total amount?",
+    "answers": [
+      "154.06", "154.06$"
+    ]
+  },
+
+    {
+    "id": 4,
+    "image_filename": "doc4.png",
+    "question": "When is the final presentation slides submission deadline?",
+    "answers": [
+      "july 20, 2025"
+    ]
+  },
+
+    {
+    "id": 5,
+    "image_filename": "doc5.png",
+    "question": "Which channel uploaded the video titled 'I spent 7 days Buried Alive'?",
+    "answers": [
+      "MrBeast"
+    ]
+  },
+
+    {
+    "id": 6,
+    "image_filename": "doc6.png",
+    "question": "how many hours played are on record for the game 'Dota 2'?",
+    "answers": [
+      "790 hrs", "790"
+    ]
+  },
+    {
+    "id": 7,
+    "image_filename": "doc7.png",
+    "question": "What is the title of the book?",
+    "answers": [
+      "Sapiens: A Brief History of Humankind, Sapiens"
+    ]
+  },
+    {
+    "id": 8,
+    "image_filename": "doc8.png",
+    "question": "What is the brand of the bottle?",
+    "answers": [
+      "bubba"
+    ]
+  },
+    {
+    "id": 9,
+    "image_filename": "doc9.png",
+    "question": "When is the DIP exam?",
+    "answers": [
+      "08.09", "08/09"
+    ]
+  },
+    {
+    "id": 10,
+    "image_filename": "doc10.png",
+    "question": "What is the aerobioc load in the workout?",
+    "answers": [
+      "3.6"
+    ]
+  }
+]

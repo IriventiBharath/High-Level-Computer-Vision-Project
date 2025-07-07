@@ -1,0 +1,598 @@
+id,image_filename,question,ground_truth,ocr_content,predicted_answer,exact_match,f1_score
+1,doc1.png,When did the show conclude on?,"May 19, 2019 | 19/05/2019","Search
+
+## Game of Thrones
+
+Article
+
+Talk
+
+From Wikipedia, the free encyclopedia
+
+(Redirected from Game of thrones)
+
+""GoT"" redirects here. For other uses, see GOT.
+
+This article is about the TV series. For other uses, see Game of Thrones (disambiguation).
+
+Game of Thrones is an American fantasy drama television series created by David
+
+Benioff and D. B. Weiss for HBO. It is an adaptation of A Song of Ice and Fire, a series
+
+of high fantasy novels by George R. R. Martin, the first of which is A Game of Thrones.
+
+The show premiered on HBO in the United States on April 17, 2011, and concluded on May 19, 2019, with 73 episodes broadcast over eight seasons.
+
+Set on the fictional continents of Westeros and Essos, Game of Thrones has a large ensemble cast and follows several story arcs throughout the course of the show. The first major arc concerns the Iron Throne of the Seven Kingdoms of Westeros through a web of political conflicts among the noble families either vying to claim the throne or fighting for independence from whoever sits on it. The second major arc focuses on the last descendant of the realm's deposed ruling dynasty, who has been exiled to Essos and is plotting to return and reclaim the throne. The third follows the Night's Watch, a military order defending the realm against threats from beyond the Seven Kingdoms' northern border.
+
+Game of Thrones attracted a record viewership on HBO and has a broad, active, and international fan base. Many critics and publications have named the show one of the greatest television series of all time. Critics have praised the series for its acting, complex characters, story, scope, and production values, although its frequent use of diversity and violence (including sexual violence) generated controversy. The final season received significant criticism for its reduced length and creative decisions, with many considering it a disappointing conclusion. The series received 59 Primetime Emmy Awards, the most by a drama series, including Outstanding Drama Series in 2015, 2016, 2018 and 2019. Its other awards and nominations include three Hugo Awards for
+
+Read
+
+View source
+
+View history
+
+Tools
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++","May 19, 2019",True,1.0
+2,doc2.png,What is the first title in the internation TV shows list?,The summer Hikaru Died,## For Squid Game Fans&gt;,**Squid Game**,False,0.0
+3,doc3.png,What is the total amount?,154.06 | 154.06$,"East Repair Inc.
+
+1912 Harvest Lane
+
+New York, NY 12210
+
+## BILL TO
+
+John Smith
+
+2 Court Square
+
+New York, NY 12210
+
+SHIP TO
+
+John Smith
+
+3787 Pineview Drive
+
+Cambridge, MA 12210
+
+INVOICE #
+
+US-001
+
+11/02/2019
+
+INVOICE DATE
+
+2312/2019
+
+DUE DATE
+
+26/02/2019
+
+| QTY   | DESCRIPTION                 | UNIT PRICE   | AMOUNT   |
+|-------|-----------------------------|--------------|----------|
+| 1     | Front and rear brake cables | 100.00       | 100.00   |
+| 2     | New set of pedal arms       | 15.00        | 30.00    |
+| 3     | Labor 3hrs                  | 5.00         | 15.00    |
+|       | Subtotal                    | 145.00       |          |
+|       | Sales Tax 6.25%             | 9.06         |          |
+|       | TOTAL                       | $154.06      |          |
+
+TERMS &amp; CONDITIONS
+
+Payment is due within 15 days
+
+Please make checks payable to: East Repair Inc.",$154.06,True,1.0
+4,doc4.png,When is the final presentation slides submission deadline?,"july 20, 2025","## Courses
+
+in the class. It could take the form of (this is a non-exhaustive list):
+
+- · A new approach or an extension / improvement to an approach for a computer vision task
+- · Applying an existing approach on a setting where it has not been used so far (where doing so is not entirely trivial)
+- · An analysis / evaluation comparing different approaches for a task
+
+## Notes:
+
+- · Given the time and resources for the project, we do not expect a major novel contribution or a very detailed analysis, but it should have a clear objective that is well motivated, the contribution being made (e.g. how your work fills a gap missing in prior work) should be clear, and there should be some discussion on what to take away from results, what the limitations are, and what the future directions could be.
+- · In general, it is not sufficient to just run an existing codebase on a new dataset or just exactly repeat what has already been done (unless there are some non-trivial challenges to overcome, or if it is a part of a broader analysis).
+- · When selecting the project topic and defining its scope, keep the constraints on time and GPU resources in mind. You may for instance look into related work to get a grasp of the required computational resources.
+- · It is not strictly necessary that your proposed approach improves over prior work: given the time constraints, it is possible that what you try does not work as well as expected. However, your presentation and report should ideally still motivate the approach, discuss / study why it does not work as well as expected, and suggest directions for future work.
+
+Some examples of projects from previous iterations of this course that had been discussed on the latest tutorial.
+
+## Timeline
+
+| S. No. Description   | Deadline (all 23:59 CEST)                                        |
+|----------------------|------------------------------------------------------------------|
+| 1                    | Project Proposal                                                 |
+| 2                    | Final Presentation Slides Submission                             |
+| 3                    | Final Presentation (In-person, all team members must be present) |
+|                      | (Likely on Wed July 23rd)                                        |
+| 4                    | Written Report                                                   |",Wed July 23rd,False,0.33
+6,doc6.png,how many hours played are on record for the game 'Dota 2'?,790 hrs | 790,"## + Add a Showcase
+
+You've earned a slot for a showcase on your profile. Click here to select a showcase to display.
+
+Recent Activity
+
+DOTA 2
+
+Achievement Progress
+
+EA SPORTS FC 24
+
+Achievement Progress
+
+Dota 2
+
+Grand Theft Auto IV: The Complete Edition
+
+7 of 40
+
+EA SPORTS FC 24
+
+0 of 55
+
+7 of 40
+
+EA SPORTS FC 24
+
+7
+
+0
+
+EA SPORTS FC 24
+
+7
+
+0
+
+EA SPORTS FC 24
+
+7
+
+0
+
+EA SPORTS FC 24
+
+7
+
+0
+
+EA SPORTS FC 24
+
+7
+
+0
+
+EA SPORTS FC 24
+
+7
+
+0
+
+EA SPORTS FC 24
+
+7
+
+0
+
+EA SPORTS FC 24
+
+7
+
+0
+
+EA SPORTS FC 24
+
+7
+
+0
+
+EA SPORTS FC 24
+
+7
+
+0
+
+EA SPORTS FC 24
+
+7
+
+0
+
+EA SPORTS FC 24
+
+7
+
+0
+
+EA SPORTS FC 24
+
+7
+
+0
+
+EA SPORTS FC 24
+
+7
+
+0
+
+EA SPORTS FC 24
+
+7
+
+0
+
+EA SPORTS FC 24
+
+7
+
+0
+
+EA SPORTS FC 24
+
+7
+
+0
+
+EA SPORTS FC 24
+
+7
+
+0
+
+EA SPORTS FC 24
+
+7
+
+0
+
+EA SPORTS FC 24
+
+7
+
+0
+
+EA SPORTS FC 24
+
+7
+
+0
+
+EA SPORTS FC 24
+
+7
+
+0
+
+EA SPORTS FC 24
+
+7
+
+0
+
+EA SPORTS FC 24
+
+7
+
+0
+
+EA SPORTS FC 24
+
+7
+
+0
+
+EA SPORTS FC 24
+
+7
+
+0
+
+EA SPORTS FC 24
+
+7
+
+0
+
+EA SPORTS FC 24
+
+7
+
+0
+
+EA SPORTS FC 24
+
+7
+
+0
+
+EA SPORTS FC 24
+
+7
+
+0
+
+EA SPORTS FC 24
+
+7
+
+0
+
+EA SPORTS FC 24
+
+7
+
+0
+
+EA SPORTS FC 24
+
+7
+
+0
+
+EA SPORTS FC 24
+
+7
+
+0
+
+EA SPORTS FC 24
+
+7
+
+0
+
+EA SPORTS FC 24
+
+7
+
+0
+
+EA SPORTS FC 24
+
+7
+
+0
+
+EA SPORTS FC 24
+
+7
+
+0",7 of 40,False,0.0
+7,doc7.png,What is the title of the book?,"Sapiens: A Brief History of Humankind, Sapiens","THE MILLION COPY BESTSELLER
+
+Yuval Noah Harari
+
+Sapiens
+
+A Brief
+
+History of Humankind
+
+I would recommend Sapiens to anyone who's interested in the history and future of our species'
+
+BILL GATES
+
+VINTAGE",A Brief History of Humankind,False,0.83
+9,doc9.png,When is the DIP exam?,08.09 | 08/09,MT: 22/07 HLCV:6.08/3.09 DIP: 08.09,,False,0.0
